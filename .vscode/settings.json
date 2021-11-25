@@ -19,6 +19,8 @@
         "razor": "html",
         "plaintext": "pug"
     },
-
+    "[javascript]": {
+        "editor.formatOnSave": true
+    }
 
 }
